@@ -7,7 +7,6 @@ pytz==2024.1
 requests==2.31.0
 asyncio
 datetime
-json
 os
 base64
 re
