@@ -5,13 +5,3 @@ aiosqlite==0.19.0
 nest_asyncio==1.6.0
 pytz==2024.1
 requests==2.31.0
-asyncio
-datetime
-os
-base64
-re
-warnings
-typing
-logging
-queue
-traceback
